@@ -166,3 +166,7 @@ hr {
 .blue {
     color: purple;
 }
+.mainImg {
+    width: 15rem;
+    height: 15rem;
+}
